@@ -1,0 +1,66 @@
+[
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/A Hero’s Death - Fontaines D.C.resized.jpg",
+    "albumId": "1",
+    "albumTitle": "A Hero’s Death",
+    "artist": "Fontanies D.C.",
+    "year": "2020",
+    "genre": "post-punk"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Gumboot Soup - King Gizzard %26 The Lizard Wizard.resized.jpeg",
+    "albumId": "2",
+    "albumTitle": "Gumboot Soup",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "year": "2020",
+    "genre": "psychedelic rock"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Loveless - My Bloody Valentine.resized.jpeg",
+    "albumId": "3",
+    "albumTitle": "Loveless",
+    "artist": "My Bloody Valentine",
+    "year": "1991",
+    "genre": "shoegaze"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Tell Me I’m Pretty - Cage The Elephant.resized.jpeg",
+    "albumId": "4",
+    "albumTitle": "Tell Me I’m Pretty",
+    "artist": "Cage The Elephant",
+    "year": "2015",
+    "genre": "indie rock"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Mini Album Thingy Wingy - The Brian Jonestown Massacre.resized.jpeg",
+    "albumId": "5",
+    "albumTitle": "Mini Album Thingy Wingy",
+    "artist": "The Brian Jonestown Massacre",
+    "year": "2015",
+    "genre": "garage rock"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Trouble Will Find Me - The National.resized.jpeg",
+    "albumId": "6",
+    "albumTitle": "Trouble Will Find Me",
+    "artist": "National",
+    "year": "2013",
+    "genre": "indie rock"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Igor - Tyler%2C The Creator.resized.jpeg",
+    "albumId": "7",
+    "albumTitle": "Igor",
+    "artist": "Tyler, The Creator",
+    "year": "2019",
+    "genre": "hip-hop"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Tranquility Base Hotel %26 Casino - Arctic Monkeys.resized.jpeg",
+    "albumId": "8",
+    "albumTitle": "Tranquility Base Hotel & Casino",
+    "artist": "Arctic Monkeys",
+    "year": "2018",
+    "genre": "psychdelic pop"
+  }
+]
