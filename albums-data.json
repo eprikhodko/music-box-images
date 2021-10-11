@@ -62,5 +62,133 @@
     "artist": "Arctic Monkeys",
     "year": "2018",
     "genre": "psychdelic pop"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/B.R.M.C. - Black Rebel Motorcycle Club.resized.jpg",
+    "albumId": "9",
+    "albumTitle": "B.R.M.C.",
+    "artist": "Black Rebel Motorcycle Club",
+    "year": "2001",
+    "genre": "alternative rock"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Three Imaginary Boys - The Cure.resized.jpg",
+    "albumId": "10",
+    "albumTitle": "Three Imaginary Boys",
+    "artist": "The Cure",
+    "year": "1979",
+    "genre": "post-punk"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/OK Computer - Radiohead.resized.jpeg",
+    "albumId": "11",
+    "albumTitle": "OK Computer",
+    "artist": "Radiohead",
+    "year": "1997",
+    "genre": "alternative rock"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Concert In Japan - John Coltrane.resized.jpeg",
+    "albumId": "12",
+    "albumTitle": "Concert In Japan",
+    "artist": "John Coltrane",
+    "year": "1973",
+    "genre": "jazz"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Demon Days - Gorillaz.resized.jpeg",
+    "albumId": "13",
+    "albumTitle": "Demon Days",
+    "artist": "Gorillaz",
+    "year": "2005",
+    "genre": "alternative hip hop"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Bird %26 Diz - Charlie Parker.resized.jpeg",
+    "albumId": "14",
+    "albumTitle": "Bird & Diz",
+    "artist": "Charlie Parker and Dizzy Gillespie",
+    "year": "1952",
+    "genre": "bebop"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Revolver - The Beatles.resized.jpeg",
+    "albumId": "15",
+    "albumTitle": "Revolver",
+    "artist": "The Beatles",
+    "year": "1966",
+    "genre": "rock"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Fine Line - Harry Styles.resized.jpeg",
+    "albumId": "16",
+    "albumTitle": "Fine Line",
+    "artist": "Harry Styles",
+    "year": "2019",
+    "genre": "pop rock"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Dogrel - Fontaines D.C.resized.jpeg",
+    "albumId": "17",
+    "albumTitle": "Dogrel",
+    "artist": "Fontaines D.C.",
+    "year": "2019",
+    "genre": "post-punk"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Butterfly 3000 - King Gizzard %26 The Lizard Wizard.resized.jpeg",
+    "albumId": "18",
+    "albumTitle": "Butterfly 3000",
+    "artist": "King Gizzard & the Lizard Wizard",
+    "year": "2021",
+    "genre": "psychdelic pop"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Born To Die - Lana Del Rey.resized.jpeg",
+    "albumId": "19",
+    "albumTitle": "Born To Die",
+    "artist": "Lana Del Rey",
+    "year": "2012",
+    "genre": "pop"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Social Cues - Cage The Elephant.resized.jpeg",
+    "albumId": "20",
+    "albumTitle": "Social Cues",
+    "artist": "Cage The Elephant",
+    "year": "2018",
+    "genre": "indie rock"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Revelation - The Brian Jonestown Massacre.resized.jpg",
+    "albumId": "21",
+    "albumTitle": "Revelation",
+    "artist": "The Brian Jonestown Massacre",
+    "year": "2014",
+    "genre": "neo-psychedelia"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/High Violet - The National.resized.jpeg",
+    "albumId": "22",
+    "albumTitle": "High Violet",
+    "artist": "The National",
+    "year": "2010",
+    "genre": "indie rock"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Chet Baker Sings - Chet Baker.resized.jpeg",
+    "albumId": "23",
+    "albumTitle": "Chet Baker Sings",
+    "artist": "Chet Baker",
+    "year": "1954",
+    "genre": "west coast jazz"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/main/Heaven To A Tortured Mind - Yves Tumor.resized.jpeg",
+    "albumId": "24",
+    "albumTitle": "Heaven To A Tortured Mind",
+    "artist": "Yves Tumor",
+    "year": "2020",
+    "genre": "rock"
   }
 ]
