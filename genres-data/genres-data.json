@@ -1,0 +1,62 @@
+[
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/42ac4db523af3944dfb2e482fe6ce4a6e1e3c228/genres-data/greatest-hits-the-notorious-big.jpeg",
+    "albumId": "1",
+    "genre": "Hip Hop"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/42ac4db523af3944dfb2e482fe6ce4a6e1e3c228/genres-data/kind-of-blue-miles-davis.resized.jpeg",
+    "albumId": "2",
+    "genre": "Jazz"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/42ac4db523af3944dfb2e482fe6ce4a6e1e3c228/genres-data/ray-of-light-madonna.resized.jpeg",
+    "albumId": "3",
+    "genre": "Pop"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/42ac4db523af3944dfb2e482fe6ce4a6e1e3c228/genres-data/rock.resized.jpeg",
+    "albumId": "4",
+    "genre": "Rock"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/42ac4db523af3944dfb2e482fe6ce4a6e1e3c228/genres-data/live-from-paris-shakira.resized.jpeg",
+    "albumId": "5",
+    "genre": "Dance"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/42ac4db523af3944dfb2e482fe6ce4a6e1e3c228/genres-data/random-access-memories-daft-punk.resized.jpeg",
+    "albumId": "6",
+    "genre": "Electronic"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/42ac4db523af3944dfb2e482fe6ce4a6e1e3c228/genres-data/glen-gould-plays-bach-glen-gould.resized.jpeg",
+    "albumId": "7",
+    "genre": "Classical"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/42ac4db523af3944dfb2e482fe6ce4a6e1e3c228/genres-data/never-mind-the-bollocks-sex-pistols.resized.jpeg",
+    "albumId": "8",
+    "genre": "Punk"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/42ac4db523af3944dfb2e482fe6ce4a6e1e3c228/genres-data/hatfull-of-hollow-the-smiths.resized.jpeg",
+    "albumId": "9",
+    "genre": "Indie"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/42ac4db523af3944dfb2e482fe6ce4a6e1e3c228/genres-data/20-all-time-greatest-hits-james-brown.resized.jpeg",
+    "albumId": "10",
+    "genre": "Funk"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/42ac4db523af3944dfb2e482fe6ce4a6e1e3c228/genres-data/dusty-in-mephis-dusty-springfield.resized.jpeg",
+    "albumId": "11",
+    "genre": "Soul"
+  },
+  {
+    "albumCover": "https://raw.githubusercontent.com/eprikhodko/music-box-images/42ac4db523af3944dfb2e482fe6ce4a6e1e3c228/genres-data/the-montreux-years-muddy-waters.resized.jpeg",
+    "albumId": "12",
+    "genre": "Blues"
+  }
+]
